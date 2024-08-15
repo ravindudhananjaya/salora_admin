@@ -1,6 +1,6 @@
-export const PROJECT_NAME = 'Demand24 marketplace';
-export const BASE_URL = 'https://api.demand24.org';
-export const WEBSITE_URL = 'https://demand24.org';
+export const PROJECT_NAME = 'solora';
+export const BASE_URL = 'https://apisalora.falconet.io';
+export const WEBSITE_URL = 'https://solora-web.vercel.app';
 export const api_url = BASE_URL + '/api/v1/';
 export const api_url_admin = BASE_URL + '/api/v1/dashboard/admin/';
 export const api_url_admin_dashboard = BASE_URL + '/api/v1/dashboard/';
