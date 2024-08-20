@@ -1,5 +1,5 @@
-export const PROJECT_NAME = 'solora';
-export const BASE_URL = 'https://apisalora.falconet.io';
+export const PROJECT_NAME = 'Solora';
+export const BASE_URL = 'https://api.solora.lk';
 export const WEBSITE_URL = 'https://solora-web.vercel.app';
 export const api_url = BASE_URL + '/api/v1/';
 export const api_url_admin = BASE_URL + '/api/v1/dashboard/admin/';
